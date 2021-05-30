@@ -4,5 +4,6 @@ public interface OpticalDisc {
 
     void spinDisc();
 
-    String readData();
+    void readDisc();
+
 }
